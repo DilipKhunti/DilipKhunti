@@ -16,9 +16,11 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **BuyBooks** - 🌱 I’m currently learning
-**ReactJs** - 💬 Ask me about **OOP** - 📫 How to reach me
-**khunti2005@gmail.com** - ⚡ Fun fact **I think i am funny**
+- 🔭 I’m currently working on **BuyBooks**
+- 🌱 I’m currently learning **ReactJs**
+- 💬 Ask me about **OOP**
+- 📫 How to reach me **khunti2005@gmail.com**
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
