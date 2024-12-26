@@ -1,202 +1,124 @@
-<h1 align="center">Hi 👋, I'm Dilip Khunti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fadd00&height=120&section=header"/>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=dilipkhunti&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dilipkhunti"
-  />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fadd00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Dilip;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=dilipkhunti"
-      alt="dilipkhunti"
-  /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Andrew6rant/Andrew6rant">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="information.svg">
+      <img alt="Andrew Grant's GitHub Profile README" src="information
+      .svg">
+    </picture>
+  </a>
+</div>
 
-- 🔭 I’m currently working on **BuyBooks**
-- 🌱 I’m currently learning **ReactJs**
-- 💬 Ask me about **OOP**
-- 📫 How to reach me **khunti2005@gmail.com**
-- ⚡ Fun fact **I think i am funny**
+<div>
+  <h2 align="center" style="color: #fadd00;">GitHub Activity Graph</h2>
+  <p align="center">
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=DilipKhunti&theme=highcontrast&hide_border=false&border_radius=10" />
+    </a>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+  <p align="center">
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilipKhunti&theme=highcontrast"
+    />
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilipKhunti&theme=highcontrast"
+    />
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
+  <p align="center">
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilipKhunti&theme=highcontrast"
     />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilipKhunti&theme=highcontrast&utcOffset=8"
     />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+  </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dilipkhunti&show_icons=true&locale=en&layout=compact"
-    alt="dilipkhunti"
-  />
-</p>
+  <p align="center">
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilipKhunti&theme=highcontrast"
+    />
+  </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dilipkhunti&show_icons=true&locale=en"
-    alt="dilipkhunti"
-  />
-</p>
+  <p align="center">
+    <a href="https://github.com/DilipKhunti">
+      <img align="center"
+         height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=DilipKhunti&custom_title=Dilip's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkhunti&"
-    alt="dilipkhunti"
-  />
-</p>
+  <div align="center">
+    <br>
+    <p align="centre" style="color: #fadd00;"><b>Visitors Count</b></p>  
+    <p align="center" ><img align="center" src="https://profile-counter.glitch.me/{DilipKhunti}/count.svg" /></p> 
+    <br>
+  </div>
+</div>
+
+<div>
+  <h2 align="center" style="color: #fadd00;">Top Repositories</h2>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/DilipKhunti/MNIST-Neural-Network-Java">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=MNIST-Neural-Network-Java&theme=highcontrast&hide_border=true&border_radius=15" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/DilipKhunti/PowerPoint-Text-Extractor">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=PowerPoint-Text-Extractor&theme=highcontrast&hide_border=true&border_radius=15" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/DilipKhunti/Weather-Web-App">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=Weather-Web-App&theme=highcontrast&hide_border=true&border_radius=15" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/DilipKhunti/Junagadh-Tourism-3D-Parallax-Website-Javascript">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=Junagadh-Tourism-3D-Parallax-Website-Javascript&theme=highcontrast&hide_border=true&border_radius=15" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div>
+  <h2 align="center" style="color: #fadd00;">GitHub Contribution Chart</h2>
+  <div align="center">
+    <a href="https://github.com/DilipKhunti">
+      <img src="https://ghchart.rshah.org/DilipKhunti" alt="DilipKhunti's GitHub Contribution Chart">
+    </a>
+  </div>
+</div>
+
+<div>
+  <h2 align="center" style="color: #fadd00;">Leetcode Stats</h2>
+  <p align="center">
+    <img align="center" src="https://leetcard.jacoblin.cool/dilipkhunti?ext=heatmap"/>
+  </p>
+</div>
+
+<div>
+  <h1 align="center" style="color: #fadd00;">Thanks for visiting my profile.</h1>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fadd00&height=120&section=footer"/>
+</div>
