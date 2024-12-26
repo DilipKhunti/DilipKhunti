@@ -6,8 +6,7 @@
   <a href="https://github.com/DilipKhunti/DilipKhunti">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DilipKhunti/DilipKhunti/blob/main/information.svg">
-      <img alt="Dilip's GitHub Profile README" src="information
-      .svg">
+      <img alt="Dilip's GitHub Profile README" src="https://github.com/DilipKhunti/DilipKhunti/blob/main/information.svg">
     </picture>
   </a>
 </div>
