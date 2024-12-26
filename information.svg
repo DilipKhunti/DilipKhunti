@@ -33,8 +33,8 @@
 
     <tspan x="30" y="300" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, C, C#, JavaScript</tspan>
     <tspan x="30" y="330" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Markdown</tspan>
-    <tspan x="30" y="360" class="keyColor">Languages</tspan>.<tspan class="keyColor">Libraries</tspan>: <tspan class="valueColor">NumPy, Pandas, ScikitLearn, PyGame</tspan>
-    <tspan x="30" y="390" class="keyColor">Languages</tspan>.<tspan class="keyColor">Web Technologies</tspan>: <tspan class="valueColor">React, Node, Express, MongoDB, SQL</tspan>
+    <tspan x="30" y="360" class="keyColor">Python</tspan>.<tspan class="keyColor">Libraries</tspan>: <tspan class="valueColor">NumPy, Pandas, ScikitLearn, PyGame</tspan>
+    <tspan x="30" y="390" class="keyColor">Web</tspan>.<tspan class="keyColor">Technologies</tspan>: <tspan class="valueColor">React, Node, Express, MongoDB, SQL</tspan>
     <tspan x="30" y="420" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi, Gujarati, Russian (and fluent in Sarcasm)</tspan>
 
     <tspan x="30" y="460" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, Android Rooting</tspan>
