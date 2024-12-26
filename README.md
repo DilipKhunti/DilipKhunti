@@ -17,7 +17,7 @@
   <p align="center">
     <a href="https://github.com/DilipKhunti">
       <img align="center"
-         ="150em"
+         height="150em"
          src="https://streak-stats.demolab.com?user=DilipKhunti&theme=highcontrast&hide_border=false&border_radius=10" />
     </a>
   </p>
@@ -25,7 +25,7 @@
   <p align="center">
     <a href="https://github.com/DilipKhunti">
       <img align="center"
-         ="150em"
+         height="150em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilipKhunti&theme=highcontrast"
     />
     <a href="https://github.com/DilipKhunti">
