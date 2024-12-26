@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="650px" font-size="18px">
+  <style>
+    .keyColor {fill:rgb(255, 242, 4); font-weight: bold;}
+    .valueColor {fill:rgb(255, 255, 255);}
+    .commentColor {fill: #8b949e;}
+    .header {fill:rgb(255, 255, 255); font-size: 22px; font-weight: bold; text-anchor: start;}
+    text, tspan {white-space: pre-wrap;}
+  </style>
+
+  <!-- Background with gradient -->
+  <rect width="975px" height="650px" fill="#000000" rx="15"/>
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Header -->
+  <text x="30" y="50" class="header">Dilip's Profile</text>
+
+  <!-- Content -->
+  <text x="30" y="90" fill="#c9d1d9">
+    <tspan x="30" y="90">DilipKhunti</tspan>
+    <tspan x="30" y="110">------------------</tspan>
+
+    <tspan x="30" y="140" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
+    <tspan x="30" y="170" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years(and still waiting for updates...)</tspan>
+    <tspan x="30" y="200" class="keyColor">Host</tspan>: <tspan class="valueColor">Gujarat Technological University</tspan><tspan class="commentColor"> #RIT</tspan>
+    <tspan x="30" y="230" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Engineering And Internet Of Things Engineering</tspan><tspan class="commentColor"> #CPET (Debug mode: ON)</tspan>
+    <tspan x="30" y="260" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.96.0</tspan>
+
+    <tspan x="30" y="300" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, C, C#, JavaScript</tspan>
+    <tspan x="30" y="330" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Markdown</tspan>
+    <tspan x="30" y="360" class="keyColor">Languages</tspan>.<tspan class="keyColor">Libraries</tspan>: <tspan class="valueColor">NumPy, Pandas, ScikitLearn, PyGame</tspan>
+    <tspan x="30" y="390" class="keyColor">Languages</tspan>.<tspan class="keyColor">Web Technologies</tspan>: <tspan class="valueColor">React, Node, Express, MongoDB, SQL</tspan>
+    <tspan x="30" y="420" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi, Gujarati, Russian (and fluent in Sarcasm)</tspan>
+
+    <tspan x="30" y="460" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, Android Rooting</tspan>
+    <tspan x="30" y="490" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking (Breaking limits, one chip at a time!)</tspan>
+
+    <tspan x="30" y="530" class="keyColor">Contact</tspan>:
+    <tspan x="30" y="550">------------------</tspan>
+    <tspan x="30" y="580" class="keyColor">Email</tspan>: <tspan class="valueColor">khunti2005@gmail.com</tspan>
+    <tspan x="30" y="610" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">dilip-khunti</tspan>
+  </text>
+</svg>
