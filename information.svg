@@ -27,8 +27,8 @@
 
     <tspan x="30" y="140" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
     <tspan x="30" y="170" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years(and still waiting for updates...)</tspan>
-    <tspan x="30" y="200" class="keyColor">Host</tspan>: <tspan class="valueColor">Gujarat Technological University</tspan><tspan class="commentColor"> #RIT</tspan>
-    <tspan x="30" y="230" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Engineering And Internet Of Things Engineering</tspan><tspan class="commentColor"> #CPET (Debug mode: ON)</tspan>
+    <tspan x="30" y="200" class="keyColor">Host</tspan>: <tspan class="valueColor">Gujarat Technological University</tspan><tspan class="commentColor"> #GTU</tspan>
+    <tspan x="30" y="230" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Engineering And Internet Of Things Engineering</tspan><tspan class="commentColor"> #CE & IOTE (Debug mode: ON)</tspan>
     <tspan x="30" y="260" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.96.0</tspan>
 
     <tspan x="30" y="300" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, C, C#, JavaScript</tspan>
