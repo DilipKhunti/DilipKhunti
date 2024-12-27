@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00add8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Dilip;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Andrew6rant/Andrew6rant">
+  <a href="https://github.com/DilipKhunti">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DilipKhunti/DilipKhunti/blob/main/information.svg">
       <img alt="Andrew Grant's GitHub Profile README" src="https://github.com/DilipKhunti/DilipKhunti/blob/main/information.svg">
