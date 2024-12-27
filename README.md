@@ -5,9 +5,8 @@
 <div align="center">
   <a href="https://github.com/Andrew6rant/Andrew6rant">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="information.svg">
-      <img alt="Andrew Grant's GitHub Profile README" src="information
-      .svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DilipKhunti/DilipKhunti/blob/main/information.svg">
+      <img alt="Andrew Grant's GitHub Profile README" src="https://github.com/DilipKhunti/DilipKhunti/blob/main/information.svg">
     </picture>
   </a>
 </div>
