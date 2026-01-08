@@ -13,13 +13,7 @@
 
 <div>
   <h2 align="center" style="color: #00add8;">GitHub Activity Graph</h2>
-  <p align="center">
-    <a href="https://github.com/DilipKhunti">
-      <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=DilipKhunti&theme=dark&hide_border=false&border_radius=10" />
-    </a>
-  </p>
+  
 
   <p align="center">
     <a href="https://github.com/DilipKhunti">
@@ -60,46 +54,9 @@
       <img align="center"
          height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=DilipKhunti&custom_title=Dilip's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=151515&color=00add8&line=ffffff&point=f3e35b&area_color=151515&title_color=ffffff&area=true" alt="GitHub Activity Graph" />
   </p>
-
-  <div align="center">
-    <br>
-    <p align="centre" style="color: #00add8;"><b>Visitors Count</b></p>  
-    <p align="center" ><img align="center" src="https://profile-counter.glitch.me/{DilipKhunti}/count.svg" /></p> 
-    <br>
-  </div>
 </div>
 
-<div>
-  <h2 align="center" style="color: #00add8;">Top Repositories</h2>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/DilipKhunti/MNIST-Neural-Network-Java">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=MNIST-Neural-Network-Java&theme=dark&hide_border=false&border_radius=15" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/DilipKhunti/PowerPoint-Text-Extractor">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=PowerPoint-Text-Extractor&theme=dark&hide_border=false&border_radius=15" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/DilipKhunti/Weather-Web-App">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=Weather-Web-App&theme=dark&hide_border=false&border_radius=15" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/DilipKhunti/Junagadh-Tourism-3D-Parallax-Website-Javascript">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DilipKhunti&repo=Junagadh-Tourism-3D-Parallax-Website-Javascript&theme=dark&hide_border=false&border_radius=15" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
+
 
 <div>
   <h2 align="center" style="color: #00add8;">GitHub Contribution Chart</h2>
